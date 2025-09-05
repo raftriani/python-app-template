@@ -14,7 +14,7 @@ dev_excuses = [
     "That's a hardware problem.",
     "I can't reproduce the problem.",
     "The client must have done something wrong.",
-    "I have never seen that before."
+    "I have never seen that before!"
 ]
 
 app = Flask(__name__)
